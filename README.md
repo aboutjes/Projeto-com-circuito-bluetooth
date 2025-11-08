@@ -52,7 +52,7 @@ Adicione aqui imagens do projeto, por exemplo:
 
 - **Altium Designer** – Desenvolvimento do esquemático e layout PCB  
 - **STMicroelectronics BlueNRG SDK** – Stack BLE e exemplos de firmware  
-- **JLCPCB / PCBWay** – Geração e envio dos Gerbers  
+- **Altium Designe ** – Geração e envio dos Gerbers  
 - **GitHub** – Controle de versões e documentação  
 
 ---
